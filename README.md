@@ -1,4 +1,4 @@
-# 🦖 Kaiju Archives
+# Kaiju Archives
 
 **Kaiju Archives** es un proyecto escolar desarrollado por *Gabriel García* como una introducción al desarrollo web con **HTML**, **CSS** y **JavaScript**.
 
@@ -7,10 +7,10 @@ permitiendo explorar información básica y detallada sobre cada criatura.
 
 ---
 
-## 🌐 Enlace del proyecto
-➡️ [Ver el sitio en GitHub Pages](https://gabrielgarcia4635t.github.io/kaiju-Archives/)
+## Enlace del proyecto
+[Ver el sitio en GitHub Pages](https://gabrielgarcia4635t.github.io/kaiju-Archives/)
 
 ---
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
